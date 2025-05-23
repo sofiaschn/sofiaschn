@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sofia Schneider Camilo 🇧🇷</h1>
+<h1 align="center">Hi 👋, I'm Sofia Schneider 🇧🇷</h1>
 
 - 💼 I'm currently working at Khomp as a C++ developer.
 - 🎓 I'm studying Electronic Engineering at Universidade Federal de Santa Catarina, Florianópolis
