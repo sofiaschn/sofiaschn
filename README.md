@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofia Schneider 🇧🇷</h1>
 
-- 💼 I'm currently working at Khomp as a C++ developer.
+- 💼 I'm currently working as a C++ developer.
 - 🎓 I'm studying Electronic Engineering at Universidade Federal de Santa Catarina, Florianópolis
 - 👯 I’m looking to collaborate on some free software projects.
 - 💬 Ask me about Linux, Free Software and Electronics.
