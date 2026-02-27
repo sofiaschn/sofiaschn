@@ -5,7 +5,7 @@ Hi! I'm a full-stack software developer based in Brazil. Just like my website la
 ### What I work with
 * **Primary Focus:** C and C++
 * **Web:** JavaScript, TypeScript, and PHP
-* **Open Source:** I occasionally contribute to open-source projects (including exactly *one* whole commit to the Linux Kernel, but hey, it counts!).
+* **Open Source:** I occasionally contribute to open-source projects (including exactly [*one* whole commit to the Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=5ede90206273ff156a778254f0f972a55e973c89), but hey, it counts!).
 
 ### Links
 * [Blog](https://blog.schn.dev) → Random thoughts and ramblings
